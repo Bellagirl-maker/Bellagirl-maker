@@ -1,18 +1,16 @@
-Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Isabella Otoo
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Isabella Otoo
 =====================================================================================================================================
 
 Full Stack Web Developer
 ------------------------
 
-I'm a recent Computer Science graduate with a passion for developing web applications. I've been learning coding for the past two years and I'm comfortable working with JavaScript, HTML/CSS and responsive web design to deliver exceptional user experience.
+I'm a recent Computer Science graduate with a passion for developing web applications. I've been learning coding for the past two years and I'm comfortable working with JavaScript, HTML/CSS, React, Ruby, Ruby on Rails, and responsive web design to deliver exceptional user experience.
 
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [My Portfolio](http://bellagirl-maker.github.io/Portfolio/)
 * ✉️  You can contact me at [isabellaotoo25@gmail.com](mailto:isabellaotoo25@gmail.com)
-* 🚀  I'm currently working on [A To Do List App](http://github.com/Bellagirl-maker/To-do-list)
-* 🧠  I'm learning ES6 and Webpack
 * 🤝  I'm open to collaborating on Exciting Projects
-* ⚡  I love coding as it helps me to do problem solving.
+* ⚡  I love coding as it helps me to do problem-solving.
 
 ### Skills
 
