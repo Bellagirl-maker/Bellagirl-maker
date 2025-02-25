@@ -6,7 +6,7 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 I'm a **Computer Science graduate** with a passion for **building web applications** that provide great user experiences. Over the past two years, I have been coding and refining my skills in **JavaScript, React, TypeScript, Redux, Ruby, Ruby on Rails, and MERN**.  
 
 🌍 **Location:** Ghana 🇬🇭  
-🖥️ **Portfolio:** [My portfolio](#https://bellagirl-maker.github.io/Portfolio/)  
+🖥️ **Portfolio:** [My portfolio](https://bellagirl-maker.github.io/Portfolio/)  
 📧 **Email:** isabellaotoo25@gmail.com  
 🤝 **Open to:** Collaborations, Open Source Contributions, Freelance Work  
 
@@ -17,8 +17,8 @@ I'm a **Computer Science graduate** with a passion for **building web applicatio
 - **Tools:** Git, GitHub, Webpack, Jest  
 
 ### **📌 Featured Projects**
-🚀 **[Realtime Chat App](#)** – *(https://github.com/Bellagirl-maker/GO2COD-FS-03)*  
-🔗 **[Blog App](#)** – *(https://github.com/Bellagirl-maker/blog_app)*  
+🚀 **[Realtime Chat App](https://github.com/Bellagirl-maker/GO2COD-FS-03)** 
+🔗 **[Blog App](https://github.com/Bellagirl-maker/blog_app)**
 
 ### **⚡ Fun Fact**
 I love coding because **it allows me to solve real-world problems** and **create meaningful digital experiences**.  
