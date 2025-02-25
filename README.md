@@ -1,16 +1,29 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Isabella Otoo
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Isabella Otoo
 =====================================================================================================================================
+ 
+### 🚀 Full Stack Web Developer | Problem Solver | Tech Enthusiast  
 
-Full Stack Web Developer
-------------------------
+I'm a **Computer Science graduate** with a passion for **building web applications** that provide great user experiences. Over the past two years, I have been coding and refining my skills in **JavaScript, React, TypeScript, Redux, Ruby, Ruby on Rails, and MERN**.  
 
-I'm a recent Computer Science graduate with a passion for developing web applications. I've been learning coding for the past two years and I'm comfortable working with JavaScript, HTML/CSS, React, Ruby, Ruby on Rails, and responsive web design to deliver exceptional user experience.
+🌍 **Location:** Ghana 🇬🇭  
+🖥️ **Portfolio:** [My portfolio](#) *(https://bellagirl-maker.github.io/Portfolio/)*  
+📧 **Email:** isabellaotoo25@gmail.com  
+🤝 **Open to:** Collaborations, Open Source Contributions, Freelance Work  
 
-* 🌍  I'm based in Ghana
-* 🖥️  See my portfolio at [My Portfolio](http://bellagirl-maker.github.io/Portfolio/)
-* ✉️  You can contact me at [isabellaotoo25@gmail.com](mailto:isabellaotoo25@gmail.com)
-* 🤝  I'm open to collaborating on Exciting Projects
-* ⚡  I love coding as it helps me to do problem-solving.
+### **💻 Tech Stack**
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React, TypeScript, Redux, Tailwind CSS  
+- **Backend:** Ruby on Rails, Node.js, Express.js  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools:** Git, GitHub, Webpack, Jest  
+
+### **📌 Featured Projects**
+🚀 **[Realtime Chat App](#)** – *(https://github.com/Bellagirl-maker/GO2COD-FS-03)*  
+🔗 **[Blog App](#)** – *(https://github.com/Bellagirl-maker/blog_app)*  
+
+### **⚡ Fun Fact**
+I love coding because **it allows me to solve real-world problems** and **create meaningful digital experiences**.  
+
+
 
 ### Skills
 
